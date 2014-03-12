@@ -7,12 +7,12 @@ Geting the data form the client.
 
 Firstly, you should include the js file.
 
-<code>
+<pre>
 <script type="text/javascript" src="client.js"></script>
-</code>
+</pre>
 
 Secodely, you can use the variable window.$client to get the data of the client. $client is an object, including the data as following: 
-<code>
+<pre>
 $client = {
     engine: {
         name,
@@ -27,6 +27,6 @@ $client = {
     hasFlash,
     language
 }
-</code>
+</pre>
 
 Hope it can help you.
