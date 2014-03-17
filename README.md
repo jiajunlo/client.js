@@ -1,4 +1,4 @@
-clientjs
+client.js
 ========
 
 Geting the data form the client.
